@@ -4,7 +4,7 @@ public class HelloWorld {
 
     public static void main(String[] args) {
 		
-		int a = 20;
+		int a = 200;
 
         // Creates a reader instance which takes
         // input from standard input - keyboard
