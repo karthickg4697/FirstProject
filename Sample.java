@@ -6,6 +6,7 @@ public class HelloWorld {
 		
 		int a = 1;
 
+
         // Creates a reader instance which takes
         // input from standard input - keyboard
         //Scanner reader = new Scanner(System.in);
