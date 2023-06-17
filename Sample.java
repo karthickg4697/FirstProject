@@ -4,7 +4,7 @@ public class HelloWorld {
 
     public static void main(String[] args) {
 		
-		//int a = 1000;
+		int a = 1000;
 
 
         // Creates a reader instance which takes
